@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/closed-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2016-06-24T14:49:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6710826497</id>
+    <published>2016-06-24T14:49:00-07:00</published>
+    <updated>2016-06-24T14:49:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-deep-closed-end-series-with-aquatack-hydrocooloid-barrier-box-of-15"/>
+    <title>MARLEN UltraMax One-Piece Closed Pouch with AquaTack Hydrocolloid Barrier, Deep Convexity Box of 15</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UltarMaxDeep_Closed-End_2.png?v=1588009712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>For MAXimum Choice and MAXimum Flexibility in a One-Piece System</h3>
+<ul>
+<li>AquaTack Hydrocolloid Barrier</li>
+<li>Deep convexity</li>
+<li>Pre-cut 12-44mm</li>
+<li>Cut-to-fit 12-38mm</li>
+<li>Transparent or opaque with Kwick-View window<br>
+</li>
+<li>Filter</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-UltraMax_Deep-ClosedEnd-MARLEN-Product-Charts_large.jpg?17927532207115479878" alt=""><br>Box of 15</p>
+<script>// <![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-83911899-1', 'auto');
+  ga('send', 'pageview');
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1/2&quot; (12 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>5/8&quot; (16 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>5/8&quot; (16 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1/2&quot; (12 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>3/4&quot; (19 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>7/8&quot; (22 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>7/8&quot; (22 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1&quot; (25 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>3/4&quot; (19 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1&quot; (25 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-1/8&quot; (29 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-1/8&quot; (29 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-1/4&quot; (32 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-1/4&quot; (32 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-3/8&quot; ( 34 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-3/8&quot; ( 34 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-1/2&quot; (38 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-1/2&quot; (38 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-5/8&quot; (41 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-5/8&quot; (41 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-3/4&quot; (44 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>1-3/4&quot; (44 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>Cut-to-fit starter hole / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6710826497</id>
+      <title>Cut-to-fit Start Hole / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6362367233</id>
+    <published>2016-05-24T10:47:00-07:00</published>
+    <updated>2016-05-24T10:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-gemini-closed-end-pouch-with-filter-pkg-of-30"/>
+    <title>MARLEN UltraMax Gemini Two-Piece Adhesive System Closed-End Pouch with Filter, Box of 30</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Closed_end.jpg?v=1464112245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            116.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>With the  E-Z Guide  System, adhesive coupling  </li>
+<li>Opaque with Kwick-View  window or transparent</li>
+<li>Filter</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/25100-25150_large.png?v=1539117732" alt=""></p>
+<p>Box of 30</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:tag>UltraMax Gemini</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6362367233</id>
+      <title>Opaque w/Kwick-ViewTM</title>
+      <s:price currency="CAD">116.46</s:price>
+      <s:sku>25100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6362367233</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">116.46</s:price>
+      <s:sku>25150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6296193473</id>
+    <published>2016-05-18T10:39:00-07:00</published>
+    <updated>2016-05-18T10:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-closed-end-series-w-aquatack-hydrocolloid-barrier-shallow-convexity-pkg-of-5"/>
+    <title>MARLEN UltraMax One-Piece Closed Pouch, AquaTack Hydrocolloid Barrier, Shallow Convexity, Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM_Colo_SC.jpg?v=1463593203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A New Level of Flexibility, Comfort and Security</strong></p>
+<p>ï»¿MAXimum Coverage - MARLEN's AquaTack Hydrocolloid Barrier covers the entire flange</p>
+<p>MAXimum Flexibility</p>
+<p>MAXimum Cushion Comfort  </p>
+<ul>
+<li>AquaTackTM Hydrocolloid Barrier</li>
+<li>Flat or Shallow convexity</li>
+<li>Cut-to-fit convex 12-38mm<br>
+</li>
+<li>Transparent or opaque with Kwick-ViewTM window</li>
+<li>Filter</li>
+<li>Belt tabs</li>
+</ul>
+<ul></ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraMax-CE-Product-Charts_large.jpg?8097743089276909656" alt=""></p>
+<p>Box of 5  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1/2&quot; (12 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1/2&quot; (12 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>5/8&quot; (16 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>5/8&quot; (16 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>3/4&quot; (19 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>3/4&quot; (19 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>7/8&quot; (22 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>7/8&quot; (22 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1&quot; (25 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1&quot; (25 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-1/8&quot; (29 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-1/8&quot; (29 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-1/4&quot; (32 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-1/4&quot; (32 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-3/8&quot; (34 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-3/8&quot; (34 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-1/2&quot; (38 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-1/2&quot; (38 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-5/8&quot; (41 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-5/8&quot; (41 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-3/4&quot; (44 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>1-3/4&quot; (44 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>Cut-to-Fit Starter Hole / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6296193473</id>
+      <title>Cut-to-Fit Starter Hole / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6289230977</id>
+    <published>2016-05-17T15:17:00-07:00</published>
+    <updated>2016-05-17T15:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-closed-end-series-w-aquatack-hydrocolloid-barrier"/>
+    <title>MARLEN UltraMax One-Piece Closed Pouch with AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM_Colo_Flat.jpg?v=1463525953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A New Level of Flexibility, Comfort and Security</strong></p>
+<p>MAXimum Coverage - MARLEN's AquaTack Hydrocolloid Barrier covers the entire flange</p>
+<p>MAXimum Flexibility</p>
+<p>MAXimum Cushion Comfort  </p>
+<ul>
+<li>AquaTackTM Hydrocolloid Barrier</li>
+<li>Flat or Shallow convexity</li>
+<li>Cut-to-fit flat 12-55mm</li>
+<li>Transparent or opaque with Kwick-ViewTM window</li>
+<li>Filter</li>
+<li>Belt tabs</li>
+</ul>
+<p>  </p>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraMax-ClosedE-Product-Charts_large.jpg?9804982767967508580" alt=""></p>
+<p>Box of 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1/2&quot; (12 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1/2&quot; (12 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>5/8&quot; (16 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>5/8&quot; (16 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>3/4&quot; (19 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>3/4&quot; (19 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>7/8&quot; (22 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>7/8&quot; (22 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1&quot; (25 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1&quot; (25 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-1/8&quot; (29 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-1/8&quot; (29 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-1/4&quot; (32 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-1/4&quot; (32 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-3/8&quot; (34 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-3/8&quot; (34 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-1/2&quot; (38 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-1/2&quot; (38 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-5/8&quot; (41 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-5/8&quot; (41 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-3/4&quot; (44 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-3/4&quot; (44 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-7/8&quot; (48 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>1-7/8&quot; (48 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>2&quot; (50 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>2&quot; (50 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>2-1/8&quot; (55 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>2-1/8&quot; (55 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>2-1/4&quot; (58 mm) / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>2-1/4&quot; (58 mm) / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>Cut-to-Fit Starter Hole / Opaque</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6289230977</id>
+      <title>Cut-to-Fit Starter Hole / Transparent</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6288935873</id>
+    <published>2016-05-17T15:08:00-07:00</published>
+    <updated>2016-05-17T15:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-closed-end-pouch-w-aquatack-hydrocolloid-barrier-pkg-of-15"/>
+    <title>MARLEN SuperFlat Closed-End Pouch, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 15</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM_Colo_Flat_CTF.jpg?v=1463523381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Our flattest, most discreet pouch ever</li>
+<li>50% thinner than a standard flange!</li>
+<li>Advantages of a one-piece system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover, facing the body</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-SuperFlat-MARLEN-Product-Charts_large.jpg?v=1517009299" alt=""></p>
+<p>Box of 15</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288935873</id>
+      <title>Opaque Backing w/Filter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83675</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288935873</id>
+      <title>Transparent Backing w/Filter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82675</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6288285569</id>
+    <published>2016-05-17T13:05:00-07:00</published>
+    <updated>2016-05-17T13:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-maxplus-closed-end-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener"/>
+    <title>MARLEN MaxPlus One-Piece Closed Pouch, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 15</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MaxPlus_Closed_End.jpg?v=1463517688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"></div>
+<div style="text-align: left;">
+<ul>
+<li>For patients with LARGER stomas up to 80 mm</li>
+<li>Advantages of a one-piece system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover facing the body</li>
+<li>Leak-proof for added protection and security</li>
+<li>Round and oval guides included</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MaxPlus-ClosedEnd-MARLEN-Product-Charts_large.jpg?13635104046608096431" alt=""></p>
+<p><span>Box of 15</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MaxPlus</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288285569</id>
+      <title>Opaque Backing w/Fiter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288285569</id>
+      <title>Transparent Backing w/Filter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

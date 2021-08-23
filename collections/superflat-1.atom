@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/superflat-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2016-05-24T09:25:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6361387969</id>
+    <published>2016-05-24T09:25:00-07:00</published>
+    <updated>2016-05-24T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-closed-end-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5"/>
+    <title>MARLEN SuperFlat MiniMax One-Piece Drainable Pouch with Kwick-Klose II Fastener, AquaTack Hydrocolloid Barrier, Flat (No-Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM-Medium-Ileo-SuperFlat-MiniMax-CTF-Pouch.jpg?v=1588633936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            82.31 - 84.25
+            <a href="https://www.marlencanada.ca/products/marlen-superflat-closed-end-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="line-height: 1.4;">ï»¿Our flattest, most discreet pouch ever</span></li>
+<li><span style="line-height: 1.4;">50% thinner than a standard flange</span></li>
+<li><span style="line-height: 1.4;">Advantages of a one-piece system</span></li>
+<li><span style="line-height: 1.4;">Odor-proof pouch material</span></li>
+<li><span style="line-height: 1.4;">Quiet, built-in comfort cover facing the body</span></li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_SuperFlat_MiniMax_One_Piece_Drainable_Pouch_chart2_480x480.jpg?v=1589906589" alt=""></p>
+<p><span style="line-height: 1.4;">Box of 5</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Opaque Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>53670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Transparent Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>52670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Opaque Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>53870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Transparent Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>52870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6321490177</id>
+    <published>2016-05-20T11:44:00-07:00</published>
+    <updated>2016-05-20T11:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-urostomy-pouch-w-aquatack-hydrocolloid-barrier-flax-convexity-pkg-of-5"/>
+    <title>MARLEN SuperFlat One-Piece Urostomy Pouch with AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/SuperFlatUrostomy_8cc1a77e-7cff-4d37-a4e2-4f178810085b.jpg?v=1467153255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            90.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>ï»¿Our flattest, most discreet pouch ever</span></li>
+<li><span>50% thinner than a standard flange</span></li>
+<li><span>Advantages of a one-piece system</span></li>
+<li><span>Odor-proof pouch material</span></li>
+<li><span>Quiet, built-in comfort cover facing the body</span></li>
+</ul>
+<p><span><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-SuperFlat-Urostomy-MARLEN-Product-Charts_large.jpg?13662577722429951586" alt=""></span></p>
+<p><span>Box of 5</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6321490177</id>
+      <title>Opaque Backing</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>73875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6321490177</id>
+      <title>Transparent Backing</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6299664641</id>
+    <published>2016-05-18T13:04:00-07:00</published>
+    <updated>2016-05-18T13:04:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener"/>
+    <title>MARLEN SuperFlat One-Piece Drainable Pouch with  Kwick-Klose II Fastener, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/SuperFlatDrainable_248c4ab5-fe89-4015-812e-50c967be29e0.jpg?v=1467152330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            82.31 - 84.25
+            <a href="https://www.marlencanada.ca/products/marlen-superflat-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Our flattest, most discreet pouch ever</li>
+<li>50% thinner than a standard flange</li>
+<li>Advantages of a one-piece system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover facing the body</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/MARLEN-SuperFlat-1Picece-Drainable_large.JPG?10609584384120111393" alt=""></p>
+<p>Box of 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299664641</id>
+      <title>Opaque Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>53675</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299664641</id>
+      <title>Transparent Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>52675</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299664641</id>
+      <title>Opaque Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>53875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299664641</id>
+      <title>Transparent Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>52875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6288935873</id>
+    <published>2016-05-17T15:08:00-07:00</published>
+    <updated>2016-05-17T15:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-closed-end-pouch-w-aquatack-hydrocolloid-barrier-pkg-of-15"/>
+    <title>MARLEN SuperFlat Closed-End Pouch, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 15</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM_Colo_Flat_CTF.jpg?v=1463523381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Our flattest, most discreet pouch ever</li>
+<li>50% thinner than a standard flange!</li>
+<li>Advantages of a one-piece system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover, facing the body</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-SuperFlat-MARLEN-Product-Charts_large.jpg?v=1517009299" alt=""></p>
+<p>Box of 15</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288935873</id>
+      <title>Opaque Backing w/Filter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83675</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288935873</id>
+      <title>Transparent Backing w/Filter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82675</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

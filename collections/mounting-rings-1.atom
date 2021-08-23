@@ -1,0 +1,3409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/mounting-rings-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2020-05-20T09:06:24-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457701441579</id>
+    <published>2020-05-20T09:06:24-07:00</published>
+    <updated>2020-05-20T09:06:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-deep-convex-compact"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Deep Convex, Compact</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenCompactAllFlexibleMountingRingDeepConvex.jpg?v=1589991208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            63.28 - 69.10
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-deep-convex-compact">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_All_Flexible_deep_convex_compact_chart_480x480.jpg?v=1589990991" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-85-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457701441579</id>
+      <title>Deep Convex Compact All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-85-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457693511723</id>
+    <published>2020-05-20T08:53:03-07:00</published>
+    <updated>2020-05-20T08:53:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-deep-convex-basic"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Deep Convex, Basic</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenBasicAllFlexibleMountingRingDeepConvex.jpg?v=1589991229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            63.28 - 69.10
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-deep-convex-basic">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_All_Flexible_deep_convex_basic_54da6e6c-b2a4-4d89-9e84-416920d02969_480x480.jpg?v=1589990315" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">69.10</s:price>
+      <s:sku>GN-80-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457693511723</id>
+      <title>Deep Convex Basic All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">63.28</s:price>
+      <s:sku>WV-80-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457680568363</id>
+    <published>2020-05-20T08:29:08-07:00</published>
+    <updated>2020-05-20T08:29:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-convex-petite"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Convex, Petite</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenPetiteAllFlexibleMountingRingConvex.jpg?v=1589988954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            52.80 - 61.73
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-convex-petite">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_All_Flexible_convex_petite_chart_480x480.jpg?v=1589988968" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-42-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457680568363</id>
+      <title>Petite Convex All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-42-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457677193259</id>
+    <published>2020-05-20T08:18:46-07:00</published>
+    <updated>2020-05-20T08:18:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-convex-compact"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Convex, Compact</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenCompactAllFlexibleMountingRingConvex_88371489-2d29-4ee0-a5c5-c8f5f17dced5.jpg?v=1589987988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            52.80 - 61.73
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-convex-compact">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_All_Flexible_convex_compact_chart_480x480.jpg?v=1589987964" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-102-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457677193259</id>
+      <title>Compact Convex All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-102-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457671524395</id>
+    <published>2020-05-20T08:05:56-07:00</published>
+    <updated>2020-05-20T08:05:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-convex-oval"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Convex, Oval</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenOvalAllFlexibleMountingRingConvex.jpg?v=1589987683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            52.80 - 61.73
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-all-flexible-convex-oval">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_All_Flexible_convex_oval_chart_480x480.jpg?v=1589987336" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">61.73</s:price>
+      <s:sku>GN-60-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457671524395</id>
+      <title>Oval Convex All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">52.80</s:price>
+      <s:sku>WV-60-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457244819499</id>
+    <published>2020-05-19T15:04:02-07:00</published>
+    <updated>2020-05-19T15:04:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-semi-flexible-medium-convex-basic"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, Semi-Flexible, Medium Convex, Basic</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenBasicSemiFlexibleMountingRingMediumConvex.jpg?v=1589926159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            76.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_Semi_Flexible_Medium_Convex_Basic_chart_480x480.jpg?v=1589926107" alt=""></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MARLEN CANADA</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1&quot; (25mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457244819499</id>
+      <title>Basic Medium Convex / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>SF-15-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457226829867</id>
+    <published>2020-05-19T14:38:43-07:00</published>
+    <updated>2020-05-19T14:38:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-semi-flexible-regular-convex-compact"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, Semi-Flexible, Regular Convex, Compact</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenCompactSemiFlexibleMountingRingRegularConvex_e4c43650-79ef-4794-ba54-a44c37836619.jpg?v=1589924522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            73.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_Semi_Flexible_Regular_Convex_Compact_7098b394-719c-4ae6-8e97-4df0e53962a0_480x480.jpg?v=1589924409" alt=""></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MARLEN CANADA</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1&quot; (25mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Compact Regular Convex / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457226829867</id>
+      <title>Basic Regular Convex / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-20-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457177841707</id>
+    <published>2020-05-19T13:44:09-07:00</published>
+    <updated>2020-05-19T13:44:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-extra-large-all-flexible-oval-convex"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Extra Large, Convex, Oval</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenOvalExtraLargeAllFlexibleMountingRingsConvex_dcb80e94-3580-485f-a2cc-001c846bc163.jpg?v=1589921052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            76.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/MARLEN_Two_Piece_Reusable_Mounting_Rings_extra_large_all_flexible_oval_compact_bc91d1a4-0ed7-40e0-bf9d-342198ee75fe_480x480.jpg?v=1589921339" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 1 3/4&quot; (44mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-1-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 1 13/16&quot; (45mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-1-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 1 7/8&quot; (47mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-1-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 1 15/16&quot; (49mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-1-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2&quot; (50mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 1/16&quot; (52mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 1/8&quot; (54mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 3/16&quot; (56mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 1/4&quot; (57mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 5/16&quot; (59mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 3/8&quot; (60mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 7/16&quot; (62mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457177841707</id>
+      <title>XTL Oval Convex (White Vinyl) / 2 1/2&quot; (63mm)</title>
+      <s:price currency="CAD">76.88</s:price>
+      <s:sku>XTL-75-2-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457154281515</id>
+    <published>2020-05-19T13:03:13-07:00</published>
+    <updated>2020-05-19T13:03:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-flat-petite-all-flexible"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Flat, Petite</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenPetiteAllFlexibleMountingRingFlat.jpg?v=1589918748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            51.24 - 60.17
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-flat-petite-all-flexible">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/MARLEN_Two_Piece_Reusable_Mounting_Rings_flat_petite_all_flexible_chart_480x480.jpg?v=1589918715" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-40-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457154281515</id>
+      <title>Petite Flat All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-40-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457108865067</id>
+    <published>2020-05-19T11:53:01-07:00</published>
+    <updated>2020-05-19T11:53:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-compact-flat-all-flexible"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Flat, Compact</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenCompactAllFlexibleMountingRingConvex.jpg?v=1589914544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            51.24 - 60.17
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-compact-flat-all-flexible">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/MARLEN_Two_Piece_Reusable_Mounting_Rings_compact_flat_all_flexible_chart_480x480.jpg?v=1589914495" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-45-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 1/16 (26mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 3/16 (30mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 1/4 (31mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457108865067</id>
+      <title>Compact Flat All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-45-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/4457098346539</id>
+    <published>2020-05-19T11:40:43-07:00</published>
+    <updated>2020-05-19T11:40:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-oval-flat-all-flexible"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Flat, Oval</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenOvalAllFlexibleMountingRingFlat_b98008ad-4d2d-441f-938f-6e67562eb0e3.jpg?v=1589913934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            51.24 - 60.17
+            <a href="https://www.marlencanada.ca/products/marlen-two-piece-reusable-mounting-rings-oval-flat-all-flexible">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/MARLEN_Two_Piece_Reusable_Mounting_Rings_oval_flat_all_flexible_chart_480x480.jpg?v=1589913896" alt=""></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-50-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/4457098346539</id>
+      <title>Oval Flat All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-50-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6367971265</id>
+    <published>2016-05-24T15:07:00-07:00</published>
+    <updated>2016-05-24T15:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-mounting-rings-semi-flexible-mounting-rings"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, Semi-Flexible, Regular Convex, Basic</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenBasicReguarSemiFlexibleMountingRingConvex.jpg?v=1589922520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            73.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_Two_Piece_Reusable_Mounting_Rings_Semi_Flexible_Regular_Convex_Basic_480x480.jpg?v=1589922474" alt=""></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MARLEN CANADA</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1&quot; (25mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367971265</id>
+      <title>Basic Regular Convex / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>SF-10-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6367797697</id>
+    <published>2016-05-24T15:03:00-07:00</published>
+    <updated>2016-05-24T15:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-mounting-rings-extra-large-all-flexible-mounting-rings"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Extra Large, Flat, Oval</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenOvalExtraLargeAllFlexibleMountingRingsConvex.jpg?v=1589921030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            73.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/MARLEN_Two_Piece_Reusable_Mounting_Rings_extra_large_all_flexible_oval_flat_480x480.jpg?v=1589920954" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 1 3/4&quot; (44mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-1-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 1 13/16&quot; (45mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-1-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 1 7/8&quot; (47mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-1-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 1 15/16&quot; (49mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-1-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2&quot; (50mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 1/16&quot; (52mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 1/8&quot; (54mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 3/16&quot; (56mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 1/4&quot; (57mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 5/16&quot; (59mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 3/8&quot; (60mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 7/16&quot; (62mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6367797697</id>
+      <title>XTL Oval Flat (White Vinyl) / 2 1/2&quot; (63mm)</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>XTL-55-2-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6366213889</id>
+    <published>2016-05-24T11:32:00-07:00</published>
+    <updated>2016-05-24T11:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-mounting-rings-flat-all-flexible-mounting-rings"/>
+    <title>Marlen Two-Piece Reusable Mounting Rings, All-Flexible, Flat, Basic</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenBasicAllFlexibleMountingRingFlat.jpg?v=1589913498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            51.24 - 60.17
+            <a href="https://www.marlencanada.ca/products/marlen-mounting-rings-flat-all-flexible-mounting-rings">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/MARLEN_Two_Piece_Reusable_Mounting_Rings_flat_basic_all_flexible_chart_480x480.jpg?v=1589913261" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1&quot; (25mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / Green Neoprene Rubber / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">60.17</s:price>
+      <s:sku>GN-101-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1/2&quot; (12mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 9/16&quot; (14mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 5/8&quot; (16mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 11/16&quot; (17mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-11/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 3/4&quot; (19mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-3/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 13/16&quot; (21mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-13/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 7/8&quot; (22mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-7/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 15/16&quot; (24mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-15/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1&quot; (25mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 1/16&quot; (26mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-1/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 1/8&quot; (28mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-1/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 3/16&quot; (30mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-3/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 1/4&quot; (31mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-1/4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 5/16&quot; (33mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-5/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 3/8&quot; (35mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-3/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 7/16&quot; (36mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-7/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 1/2&quot; (38mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-1/2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 9/16&quot; (39mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-9/16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6366213889</id>
+      <title>Basic All-Flexible / White Vinyl / 1 5/8&quot; (41mm)</title>
+      <s:price currency="CAD">51.24</s:price>
+      <s:sku>WV-101-1-5/8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

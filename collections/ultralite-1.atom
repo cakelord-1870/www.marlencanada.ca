@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/ultralite-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2016-05-20T14:11:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6323142913</id>
+    <published>2016-05-20T14:11:00-07:00</published>
+    <updated>2016-05-20T14:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-shallow-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Urostomy Pouches, AquaTack Hydrocolloid or Skin Shield Barrier, Shallow Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_330a6cda-b4a7-40a4-8174-d395d6a4a19a.jpg?v=1467321386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            159.96 - 163.83
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-shallow-convexity-pkg-of-10">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>AquaTack Hydrocolloid Barrier or Skin Shield Adhesive Skin Barrier</li>
+<li>Pre-cut convex 12-44mm</li>
+<li>Transparent with cloth-like backing</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/77030-77128_large.png?v=1539083878" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6322615297</id>
+    <published>2016-05-20T13:05:00-07:00</published>
+    <updated>2016-05-20T13:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-flat-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Urostomy Pouch, AquaTack Hydrocolloid or Skin Shield Barrier, Flat (No Convexity), Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_42721a5b-891d-4a2f-9e15-c78b69e83d31.jpg?v=1467319073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            159.96 - 163.83
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-flat-convexity-pkg-of-10">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>AquaTack Hydrocolloid Barrier or Skin Shield Adhesive Skin Barrier<br>
+</li>
+<li>Cut-to-fit flat 12-44mm</li>
+<li>Pre-cut flat 12-44mm</li>
+<li>Transparent with cloth-like backing</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLite-one-P-Urostomy-Flat_large.jpg?14315707013480351375" alt=""></p>
+<p>  Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>Cut-to-Fit Starter Hole / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>Cut-to-Fit Starter Hole / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6320322753</id>
+    <published>2016-05-20T09:17:00-07:00</published>
+    <updated>2016-05-20T09:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-deep-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Urostomy Pouches with Skin Shield Barrier or AquaTack Barrier, Deep Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_e690a909-7f4d-4269-997c-62e8f432b405.jpg?v=1467318117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            159.96 - 163.83
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-deep-convexity-pkg-of-10">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>AquaTack Hydrocolloid Barrier or Skin Shield Adhesive Skin Barrier<br>
+</li>
+<li><span style="line-height: 1.4;">Deep convexity<br></span></li>
+<li><span style="line-height: 1.4;">Belt tabs</span></li>
+<li>
+<span style="line-height: 1.4;">Cloth-like comfort cover on </span>body<span style="line-height: 1.4;"> side1</span>
+</li>
+<li>Transparent on outer side  </li>
+<li>Push-Pull E-Z Drain Valve</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLite-one-P-Urostomy_large.jpg?8874287706429266664" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6311999361</id>
+    <published>2016-05-19T15:24:00-07:00</published>
+    <updated>2016-05-19T15:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-ileostomy-colostomy-drainable-one-piece-convex-pouches-with-snap-lok-pouch-closure-shallow-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Drainable Pouches with Snap-Lok Closure,  AquaTack Hydrocolloid or Skin Shield Barrier, Shallow Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UltraLite_Snap-Lok_Closure_Deep_ef26c00a-3ab4-47ea-8510-f9fc87bb9694.png?v=1463698335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            143.62 - 147.53
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-ileostomy-colostomy-drainable-one-piece-convex-pouches-with-snap-lok-pouch-closure-shallow-convexity-pkg-of-10">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cloth-like comfort cover on body side</li>
+<li>Transparent or Opaque with Kwick-View feature on outer side</li>
+<li>Standard pouch size only</li>
+<li>No filter</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLit-Drainable-Shallow-Convex-Charts_large.jpg?17991918275466312737" alt=""><br>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / 144.63</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6311999361</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6310438401</id>
+    <published>2016-05-19T14:06:00-07:00</published>
+    <updated>2016-05-19T14:06:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-ileostomy-colostomy-drainable-one-piece-convex-pouches-with-snap-lock-pouch-closure-flat-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Drainable Pouch with Snap-Lok Closure System, AquaTack Hydrocolloid or Skin Shield Barrier, Flat (No Convexity), Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UltraLite_Snap-Lok_Closure_Deep_cfc644bc-25e8-48c0-9418-2033f2e05e86.png?v=1463693053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            143.62 - 147.53
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-ileostomy-colostomy-drainable-one-piece-convex-pouches-with-snap-lock-pouch-closure-flat-convexity-pkg-of-10">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cloth-like comfort cover on body side</li>
+<li>Transparent or Opaque with Kwick-View feature on outer side</li>
+<li>Standard pouch size only</li>
+<li>No filter</li>
+</ul>
+<p><strong>Includes one (1) Part No. 05018 Snap-Lok Pouch Closure</strong></p>
+<p>  <img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLite-SnapLok-Flat_large.png?10629906954448482120" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>Cut-to-Fit Starter Hole / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>Cut-to-Fit Starter Hole / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>Cut-to-Fit Starter Hole / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>Cut-to-Fit Starter Hole / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55264</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55180</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6310438401</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6307984897</id>
+    <published>2016-05-19T10:20:00-07:00</published>
+    <updated>2016-05-19T10:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-ileostomy-colostomy-drainable-one-piece-convex-pouches-with-snap-lok-closure-deep-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Drainable Pouch with Snap-Lok Closure, AquaTack Hydrocolloid or Skin Shield Barrier, Deep Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UltraLite_Snap-Lok_Closure_Deep.png?v=1463760983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            143.62 - 147.53
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-ileostomy-colostomy-drainable-one-piece-convex-pouches-with-snap-lok-closure-deep-convexity-pkg-of-10">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cloth-like comfort on body side</li>
+<li>Transparent of opaque with Kwick-View feature on outer side</li>
+<li>Standard pouch size only</li>
+<li>No filter</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLit-Drainable-DeepConvex-Charts_large.jpg?5364696164918551732" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55236</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55237</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier / Transparent</title>
+      <s:price currency="CAD">143.62</s:price>
+      <s:sku>55245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307984897</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier / Transparent</title>
+      <s:price currency="CAD">147.53</s:price>
+      <s:sku>55333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6951419649</id>
+    <published>2016-05-19T09:25:00-07:00</published>
+    <updated>2016-05-19T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/copy-of-marlen-ultralite-drainable-one-piece-convex-pouches-with-kwick-klose-ii-fastener-shallow-convexity-box-of-10"/>
+    <title>MARLEN UltraLite One-Piece Drainable Pouch with Kwick-Klose II Fastener, AquaTack Hydrocolloid or Skin Shield Barrier, Deep Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenUltraLiteOnePieceDrainablePouchwithKwickKloseFastenerII.jpg?v=1589396988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            145.98 - 149.85
+            <a href="https://www.marlencanada.ca/products/copy-of-marlen-ultralite-drainable-one-piece-convex-pouches-with-kwick-klose-ii-fastener-shallow-convexity-box-of-10">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<ul>
+<li>Cloth-like comfort cover on body side</li>
+<li>Transparent or Opaque with Kwick-View feature on outer side</li>
+<li>Standard pouch size only</li>
+</ul>
+<p>  <img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLite-1Piece-DeepC_8a1c69f5-3628-4bf8-a39e-efe45cbffdc4_large.png?1796305712549204445" alt=""></p>
+<p>Box of 10</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/4&quot; (44) / Skin Shield Barrier / Opaque</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>50644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/4&quot; (44) / Skin Shield Barrier / Transparency</title>
+      <s:price currency="CAD">145.98</s:price>
+      <s:sku>51644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/4&quot; (44) / AquaTack Barrier / Opaque</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>56644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6951419649</id>
+      <title>1-3/4&quot; (44) / AquaTack Barrier / Transparency</title>
+      <s:price currency="CAD">149.85</s:price>
+      <s:sku>57644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/blogs/news.atom"/>
+  <title>marlencanada - Blog</title>
+  <updated>2021-04-25T13:00:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/blogs/news/97278913-first-post</id>
+    <published>2021-04-25T13:00:00-07:00</published>
+    <updated>2021-04-26T12:43:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/blogs/news/97278913-first-post"/>
+    <title>Marlen Canada Product Education - NSWOCC 2021</title>
+    <author>
+      <name>Christa Keeler</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><span>Marlen Canada is proudly sponsoring the NSWOCC 2021 annual meeting.  This year's meeting is held virtually from May 12-15, 2021. </span></p>
+<p><span>Marlen is pleased to present the following product education video at the conference.  Click below to view:</span></p>
+<p> <a href="https://www.youtube.com/watch?v=on3JtC1q1jI&amp;list=PLc5rN7MoKOMmzP36VMsy54XeyjG8nxkur&amp;index=4&amp;t=0s" title="Marlen Canada product education video NSWOCC 2020"><img src="//cdn.shopify.com/s/files/1/1248/9229/files/Marlen-Video-Cover-Image_large.jpg?v=1590181242" alt="marlen patient education video thumbnail" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
+<p> </p>
+<p>The Marlen UltraMax Deep Series and MegaMax Series offer unique features to solve problems such as retracted or flush stomas, or large circular or oval stomas.  Read more below:</p>
+<p><a href="https://cdn.shopify.com/s/files/1/1248/9229/files/NSWOCC_2021_Marlen_UltraMax_poster.pdf?v=1618868019"><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/NSWOCC_2021_Marlen_UltraMax_poster_480x480.jpg?v=1619031149" alt="" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

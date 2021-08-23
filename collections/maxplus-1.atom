@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/maxplus-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2016-05-18T11:50:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6297448257</id>
+    <published>2016-05-18T11:50:00-07:00</published>
+    <updated>2016-05-18T11:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-maxplus-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5"/>
+    <title>MARLEN MaxPlus One-Piece Drainable Pouch with Kwick-Klose II Fastener, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/New_MaxPlus_Pouch_Opaque.jpg?v=1463597923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            82.31 - 84.25
+            <a href="https://www.marlencanada.ca/products/marlen-maxplus-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="line-height: 1.4;">For patients with LARGER stomas, up to 80 mm</span></li>
+<li><span style="line-height: 1.4;">Advantages of a One-Piece System</span></li>
+<li><span style="line-height: 1.4;">Odour-proof pouch material</span></li>
+<li><span style="line-height: 1.4;">Quiet, built-in comfort cover facing the body</span></li>
+<li><span style="line-height: 1.4;">Leak-proof for added protection and security</span></li>
+<li><span style="line-height: 1.4;">Round and oval guides included</span></li>
+</ul>
+<p><span style="line-height: 1.4;"><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016--MaxPlus-1Piece_Drainable-MARLEN-Product-Charts_large.jpg?13743193822653555467" alt="5360-53880-52680-52880"></span></p>
+<p>  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MaxPlus</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6297448257</id>
+      <title>Opaque Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>53680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6297448257</id>
+      <title>Transparent Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>52680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6297448257</id>
+      <title>Opaque Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>53880</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6297448257</id>
+      <title>Transparent Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>52880</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6288285569</id>
+    <published>2016-05-17T13:05:00-07:00</published>
+    <updated>2016-05-17T13:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-maxplus-closed-end-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener"/>
+    <title>MARLEN MaxPlus One-Piece Closed Pouch, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 15</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MaxPlus_Closed_End.jpg?v=1463517688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            123.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"></div>
+<div style="text-align: left;">
+<ul>
+<li>For patients with LARGER stomas up to 80 mm</li>
+<li>Advantages of a one-piece system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover facing the body</li>
+<li>Leak-proof for added protection and security</li>
+<li>Round and oval guides included</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MaxPlus-ClosedEnd-MARLEN-Product-Charts_large.jpg?13635104046608096431" alt=""></p>
+<p><span>Box of 15</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MaxPlus</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288285569</id>
+      <title>Opaque Backing w/Fiter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>83680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6288285569</id>
+      <title>Transparent Backing w/Filter</title>
+      <s:price currency="CAD">123.45</s:price>
+      <s:sku>82680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

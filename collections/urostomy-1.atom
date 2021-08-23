@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/urostomy-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2016-07-13T13:49:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6941327169</id>
+    <published>2016-07-13T13:49:00-07:00</published>
+    <updated>2016-07-13T13:49:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-deep-urostomy-series-with-aquatack-hydrocolloid-barrier-deep-convexity-box-of-5"/>
+    <title>MARLEN UltraMax One-Piece Urostomy Pouch, AquaTack Hydrocolloid Barrier, Deep Convexity, Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/DeepUrostomyRT.png?v=1588009483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            90.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A New Level of Flexibility, Comfort and Security</p>
+<ul>
+<li><span style="line-height: 1.5;">Unique petal design creates a flexible, comfortable fit for all abdominal contours</span></li>
+<li><span style="line-height: 1.5;">Flexible flange creates an optimal seal</span></li>
+<li><span style="line-height: 1.5;">No tape flange</span></li>
+<li><span style="line-height: 1.5;">Ideal for retracted, flush and hard-to-fit stomas</span></li>
+<li>
+<span style="line-height: 1.5;">Available in pre-cut stoma openings</span><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraMax_Deep-Urostomy-Shallow_87e39704-7a3c-4a44-8578-cad86a5a7017_large.png?10994606354263151741" alt="" width="414" height="414"><br>Box of 5</li>
+</ul>
+<p>  </p>
+<script>// <![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-83911899-1', 'auto');
+  ga('send', 'pageview');
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>Cut-to-Fit Starter Hole / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1/2&quot; (12 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>5/8&quot; (16 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>3/4&quot; (19 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>7/8&quot;  (22 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1&quot; (25 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1-1/8&quot; (29 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1-1/4&quot; (32 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1-3/8&quot; (34 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1-1/2&quot; (38 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1-5/8&quot; (41 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6941327169</id>
+      <title>1-3/4&quot; (44 mm) / Aqua Tack Hydrocolloid</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6368626689</id>
+    <published>2016-05-24T15:48:00-07:00</published>
+    <updated>2016-05-24T15:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-all-flexible-urostomy-pouches-pkg-of-5"/>
+    <title>MARLEN All-Flexible Two-Piece Urostomy Pouches Reusable, Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenAllFlexiblePlasticUrostomyPouch.jpg?v=1589397850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            53.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UrostomyMAF-Charts_large.jpg?6580576051475215908" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/Screenshot_2018-10-09_16.53.08_large.png?v=1539129263" alt=""></p>
+<p>Box of 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Regular / White</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-115-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Large / White</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-115-R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Child / White</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-115-C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Infant / White</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-115-I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Child / Beige</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-222-C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Infant / Beige</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-222-I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Large / Beige</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-222-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Regular / Beige</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-222-R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Child / Clear</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-114-C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Infant / Clear</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-114-I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Large / Clear</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-114-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6368626689</id>
+      <title>Regular / Clear</title>
+      <s:price currency="CAD">53.56</s:price>
+      <s:sku>MAF-12-114-R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6362422145</id>
+    <published>2016-05-24T10:51:00-07:00</published>
+    <updated>2016-05-24T10:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-gemini-urostomy-pouch-pkg-of-10"/>
+    <title>MARLEN UltraMax Gemini Urostomy Pouch, Two-Piece Adhesive System, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Urostomy.jpg?v=1464112439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            73.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>With the   E-Z Guide<span>  </span> System, adhesive coupling</li>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>Opaque with Kwick-View<span>  window or transparent</span>
+</li>
+<li><span>Belt tabs</span></li>
+</ul>
+<p>  <img src="//cdn.shopify.com/s/files/1/1248/9229/files/25300-25350_large.png?v=1539120106" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:tag>UltraMax Gemini</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6362422145</id>
+      <title>Opaque w/Kwick-ViewTM</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>25300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6362422145</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">73.77</s:price>
+      <s:sku>25350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6323444993</id>
+    <published>2016-05-20T15:10:00-07:00</published>
+    <updated>2016-05-20T15:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-urostomy-series-w-aquatack-hydrocolloid-barrier-shallow-convexity-pkg-of-5"/>
+    <title>MARLEN UltraMax One-Piece Urostomy Pouch, AquaTack Hydrocolloid Barrier, Shallow Convexity, Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM_Uro_SC.jpg?v=1463783248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            90.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A New Level of Flexibility, Comfort and Security</strong></p>
+<p>MAXimum coverage - MARLEN's  AquaTack Hydrocolloid Barrier covers entire flange</p>
+<p>MAXimum Flexibility</p>
+<p>MAXimum Cushioned Comfort</p>
+<ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>AquaTackTM Hydrocolloid Barrier</li>
+<li>Pre-cut convex 12-44mm<br>
+</li>
+<li>Cut-to-fit convex 12-38mm</li>
+<li>Transparent with cloth-like backing</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLIN-UltraMax_1PieceUrostomy-Charts_large.jpg?3518585746391042913" alt=""></p>
+<p>Box of 5</p>
+<p>  </p>
+<p>  </p>
+<p>  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>Cut-to-Fit Starter Hole</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1/2&quot; (12 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>5/8&quot; (16 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>3/4&quot; (19 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>7/8&quot; (22 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1&quot; (25 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1-1/8&quot; (29 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1-1/4&quot; (32 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1-3/8&quot; (34 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1-1/2&quot; (38 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1-5/8&quot; (41 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323444993</id>
+      <title>1-3/4&quot; (44 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6323311169</id>
+    <published>2016-05-20T14:46:00-07:00</published>
+    <updated>2016-05-20T14:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultramax-urostomy-series-w-aquatack-hydrocolloid-barrier-flat-convexity-pkg-of-5"/>
+    <title>MARLEN UltraMax One-Piece Urostomy Pouch, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_54cd0878-ee22-46b1-b29e-b7773d1e1a2e.jpg?v=1463781885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            90.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A New Level of Flexibility, Comfort and Security</strong></p>
+<p>MAXimum coverage - MARLEN's AquaTack Hydrocolloid Barrier covers entire flange</p>
+<p>MAXimum Flexibility</p>
+<p>MAXimum Cushioned Comfort</p>
+<ul>
+<li><span style="font-size: 1.4em;">Push-Pull E-Z Drain Valve</span></li>
+<li><span style="font-size: 1.4em;">AquaTack  Hydrocolloid Barrier</span></li>
+<li><span style="font-size: 1.4em;">Pre-cut flat 12-55mm</span></li>
+<li><span style="font-size: 1.4em;">Cut-to-fit flat 12-55mm</span></li>
+<li><span style="font-size: 1.4em;">Transparent with cloth-like backing</span></li>
+<li><span style="font-size: 1.4em;">Belt tabs</span></li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLIN-1Piece-UrostomyCharts_large.jpg?7854495787660307814" alt=""></p>
+<p>Box of 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>Cut-to-Fit Starter Hole</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1/2&quot; (12 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>5/8&quot; (16 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>3/4&quot; (19 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>7/8&quot; (22 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1&quot; (25 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-1/8&quot; (29 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-1/4&quot; (32 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-3/8&quot; (34 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-1/2&quot; (38 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-5/8&quot; (41 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-3/4&quot; (44 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>1-7/8&quot; (48 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>2&quot; (50 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>2-1/8&quot; (55 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323311169</id>
+      <title>2-1/4&quot; (58 mm)</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6323142913</id>
+    <published>2016-05-20T14:11:00-07:00</published>
+    <updated>2016-05-20T14:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-shallow-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Urostomy Pouches, AquaTack Hydrocolloid or Skin Shield Barrier, Shallow Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_330a6cda-b4a7-40a4-8174-d395d6a4a19a.jpg?v=1467321386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            159.96 - 163.83
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-shallow-convexity-pkg-of-10">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>AquaTack Hydrocolloid Barrier or Skin Shield Adhesive Skin Barrier</li>
+<li>Pre-cut convex 12-44mm</li>
+<li>Transparent with cloth-like backing</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/77030-77128_large.png?v=1539083878" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6323142913</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6322737921</id>
+    <published>2016-05-20T13:28:00-07:00</published>
+    <updated>2016-05-20T13:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultraextra-urostomy-one-piece-convex-pouches-shallow-convexity-pkg-of-10"/>
+    <title>MARLEN UltraExtra One-Piece Urostomy Pouch, Skin Shield Barrier, Shallow Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/MarlenUltraExtraOnePieceUrostomyPouch.jpg?v=1589900009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            176.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>Skin Shield Adhesive Skin Barrier</li>
+<li>Pre-cut shallow 48-76mm<br>
+</li>
+<li>Pre-cut shallow oval 25-76mm<br>
+</li>
+<li>Belt tabs</li>
+<li>12    pouch length</li>
+<li>With Tape</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraExtra-ProductV2-Charts_large.jpg?17667561451044321962" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraExtra</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1-7/8&quot; (48 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2&quot; (50 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-1/8&quot; (54 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-1/4&quot; (57 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-3/8&quot; (60 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-1/2&quot; (63 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-5/8&quot; (67 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-3/4&quot; (70 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2-7/8&quot; (73 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>3&quot; (76 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1&quot; x 1-1/2&quot; (25 x 38 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1&quot; x 1-3/4&quot; (25 x 44 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1-1/4&quot; x 1-1/2&quot; (32 x 38 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1-1/4&quot; x 2&quot; (32 x 50 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1-1/2&quot; x 2&apos; (38 x 50 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1-1/2&quot; x 2-1/2&quot; (38 x 62 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>1-1/2&quot; x 3&quot; (38 x 76 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322737921</id>
+      <title>2&quot; x 3&quot; (50 x 76 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77058</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6322615297</id>
+    <published>2016-05-20T13:05:00-07:00</published>
+    <updated>2016-05-20T13:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-flat-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Urostomy Pouch, AquaTack Hydrocolloid or Skin Shield Barrier, Flat (No Convexity), Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_42721a5b-891d-4a2f-9e15-c78b69e83d31.jpg?v=1467319073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            159.96 - 163.83
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-flat-convexity-pkg-of-10">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>AquaTack Hydrocolloid Barrier or Skin Shield Adhesive Skin Barrier<br>
+</li>
+<li>Cut-to-fit flat 12-44mm</li>
+<li>Pre-cut flat 12-44mm</li>
+<li>Transparent with cloth-like backing</li>
+<li>Belt tabs</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLite-one-P-Urostomy-Flat_large.jpg?14315707013480351375" alt=""></p>
+<p>  Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>Cut-to-Fit Starter Hole / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>Cut-to-Fit Starter Hole / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322615297</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6322363265</id>
+    <published>2016-05-20T11:48:00-07:00</published>
+    <updated>2016-05-20T11:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultraextra-urostomy-one-piece-convex-pouches-flat-convexity-pkg-of-10"/>
+    <title>MARLEN UltraExtra One-Piece Urostomy Drainable Pouch, Skin Shield Barrier, Flat (No Convexity), Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/marlenultraextraonepieceurostomypouchflatcutfit.jpg?v=1589901656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            176.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Push-Pull E-Z Drain Valve</li>
+<li>Skin Shield Adhesive Skin Barrier</li>
+<li>Cut-to-fit flat 48-76mm</li>
+<li>Pre-cut flat 48-76mm</li>
+<li>Pre-cut flat oval 25-76mm</li>
+<li>Belt tabs</li>
+<li>12    pouch length</li>
+<li>With Tape</li>
+</ul>
+<p><span style="line-height: 1.4;"><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraExtra-Product-Charts_large.jpg?3684330851232199055" alt=""></span></p>
+<p><span style="line-height: 1.4;">Box of 10</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraExtra</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>Cut-to-Fit Starter Hole</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1-7/8&quot; (48 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2&quot; (50 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-1/8&quot; (54 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-1/4&quot; (57 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-3/8&quot; (60 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-1/2&quot; (63 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-5/8&quot; (67 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-3/4&quot; (70 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2-7/8&quot; (73 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>3&quot; (76 mm)</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1&quot; x 1-1/2&quot; (25 x 38 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1&quot; x 1-3/4&quot; (25 x 44 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1-1/4&quot; x 1-1/2&quot; (32 x 44 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1-1/4&quot; x 2&quot; (32 x 50 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1-1/2&quot; x 2&quot; (38 x 50 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1-1/2&quot; x 2-1/2&quot; (38 x 62 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>1-1/2&quot; x 3&quot; (38 x 76 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6322363265</id>
+      <title>2&quot; x 3&quot; (50 x 76 mm) Oval</title>
+      <s:price currency="CAD">176.25</s:price>
+      <s:sku>77029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6321490177</id>
+    <published>2016-05-20T11:44:00-07:00</published>
+    <updated>2016-05-20T11:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-urostomy-pouch-w-aquatack-hydrocolloid-barrier-flax-convexity-pkg-of-5"/>
+    <title>MARLEN SuperFlat One-Piece Urostomy Pouch with AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/SuperFlatUrostomy_8cc1a77e-7cff-4d37-a4e2-4f178810085b.jpg?v=1467153255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            90.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>ï»¿Our flattest, most discreet pouch ever</span></li>
+<li><span>50% thinner than a standard flange</span></li>
+<li><span>Advantages of a one-piece system</span></li>
+<li><span>Odor-proof pouch material</span></li>
+<li><span>Quiet, built-in comfort cover facing the body</span></li>
+</ul>
+<p><span><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-SuperFlat-Urostomy-MARLEN-Product-Charts_large.jpg?13662577722429951586" alt=""></span></p>
+<p><span>Box of 5</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6321490177</id>
+      <title>Opaque Backing</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>73875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6321490177</id>
+      <title>Transparent Backing</title>
+      <s:price currency="CAD">90.06</s:price>
+      <s:sku>72875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6320322753</id>
+    <published>2016-05-20T09:17:00-07:00</published>
+    <updated>2016-05-20T09:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-deep-convexity-pkg-of-10"/>
+    <title>MARLEN UltraLite One-Piece Urostomy Pouches with Skin Shield Barrier or AquaTack Barrier, Deep Convexity, Box of 10</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Marlen_Ultra_Extra_Urostomy_e690a909-7f4d-4269-997c-62e8f432b405.jpg?v=1467318117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            159.96 - 163.83
+            <a href="https://www.marlencanada.ca/products/marlen-ultralite-urostomy-one-piece-convex-pouches-deep-convexity-pkg-of-10">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>AquaTack Hydrocolloid Barrier or Skin Shield Adhesive Skin Barrier<br>
+</li>
+<li><span style="line-height: 1.4;">Deep convexity<br></span></li>
+<li><span style="line-height: 1.4;">Belt tabs</span></li>
+<li>
+<span style="line-height: 1.4;">Cloth-like comfort cover on </span>body<span style="line-height: 1.4;"> side1</span>
+</li>
+<li>Transparent on outer side  </li>
+<li>Push-Pull E-Z Drain Valve</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/1248/9229/files/2016-MARLEN-UltraLite-one-P-Urostomy_large.jpg?8874287706429266664" alt=""></p>
+<p>Box of 10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraLite</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1/2&quot; (12 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1/2&quot; (12 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>5/8&quot; (16 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>5/8&quot; (16 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>3/4&quot; (19 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>3/4&quot; (19 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>7/8&quot; (22 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>7/8&quot; (22 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1&quot; (25 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1&quot; (25 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/8&quot; (29 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/8&quot; (29 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/4&quot; (32 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/4&quot; (32 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/8&quot; (34 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/8&quot; (34 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/2&quot; (38 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-1/2&quot; (38 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-5/8&quot; (41 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-5/8&quot; (41 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/4&quot; (44 mm) / Skin Shield Barrier</title>
+      <s:price currency="CAD">159.96</s:price>
+      <s:sku>77069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6320322753</id>
+      <title>1-3/4&quot; (44 mm) / AquaTack Barrier</title>
+      <s:price currency="CAD">163.83</s:price>
+      <s:sku>77157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

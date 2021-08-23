@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.marlencanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.marlencanada.ca/collections/minimax-1.atom"/>
+  <title>marlencanada</title>
+  <updated>2016-05-24T09:25:00-07:00</updated>
+  <author>
+    <name>marlencanada</name>
+  </author>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6361387969</id>
+    <published>2016-05-24T09:25:00-07:00</published>
+    <updated>2016-05-24T09:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-superflat-closed-end-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5"/>
+    <title>MARLEN SuperFlat MiniMax One-Piece Drainable Pouch with Kwick-Klose II Fastener, AquaTack Hydrocolloid Barrier, Flat (No-Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/UM-Medium-Ileo-SuperFlat-MiniMax-CTF-Pouch.jpg?v=1588633936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            82.31 - 84.25
+            <a href="https://www.marlencanada.ca/products/marlen-superflat-closed-end-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="line-height: 1.4;">ï»¿Our flattest, most discreet pouch ever</span></li>
+<li><span style="line-height: 1.4;">50% thinner than a standard flange</span></li>
+<li><span style="line-height: 1.4;">Advantages of a one-piece system</span></li>
+<li><span style="line-height: 1.4;">Odor-proof pouch material</span></li>
+<li><span style="line-height: 1.4;">Quiet, built-in comfort cover facing the body</span></li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_SuperFlat_MiniMax_One_Piece_Drainable_Pouch_chart2_480x480.jpg?v=1589906589" alt=""></p>
+<p><span style="line-height: 1.4;">Box of 5</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SuperFlat</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Opaque Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>53670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Transparent Backing with Filter</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>52670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Opaque Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>53870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6361387969</id>
+      <title>Transparent Backing without Filter</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>52870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6307139969</id>
+    <published>2016-05-19T09:17:00-07:00</published>
+    <updated>2016-05-19T09:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-minimax-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-shallow-convexity-pkg-of-5"/>
+    <title>MARLEN MiniMax One-Piece Drainable Pouch with Kwick-Klose II Fastener, AquaTack Hydrocolloid Barrier, Shallow Convexity, Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Minimax_Convex_CTF_Opaq.jpg?v=1463674996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            82.31 - 84.25
+            <a href="https://www.marlencanada.ca/products/marlen-minimax-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-shallow-convexity-pkg-of-5">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A New Level of Flexibility, Comfort and Security</strong></p>
+<ul>
+<li>Advantage of a One-Piece System</li>
+<li>30% smaller than UltraMax</li>
+<li>Ease of a disposable system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover facing the body</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_MiniMax_One_Piece_shallow_Drainable_Pouch_chart2_de71e16f-6637-4c92-8938-498fe01a7845_480x480.jpg?v=1589492118" alt=""></p>
+<p>Box of 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MiniMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307139969</id>
+      <title>With Filter / Opaque</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>53700</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307139969</id>
+      <title>With Filter / Transparent</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>52700</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307139969</id>
+      <title>Without Filter / Opaque</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>53900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6307139969</id>
+      <title>Without Filter / Transparent</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>52900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.marlencanada.ca/products/6299548865</id>
+    <published>2016-05-18T12:45:00-07:00</published>
+    <updated>2016-05-18T12:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.marlencanada.ca/products/marlen-minimax-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5"/>
+    <title>MARLEN MiniMax One-Piece Drainable Pouch with Kwick-Klose Fastener II, AquaTack Hydrocolloid Barrier, Flat (No Convexity), Box of 5</title>
+    <s:type>Ostomy Pouches</s:type>
+    <s:vendor>marlencanada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1248/9229/products/Minimax_Flat_CTF_Trans.jpg?v=1463601706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>marlencanada<br>
+        <strong>Type: </strong>Ostomy Pouches<br>
+        <strong>Price: </strong>
+            82.31 - 84.25
+            <a href="https://www.marlencanada.ca/products/marlen-minimax-drainable-pouch-w-aquatack-hydrocolloid-barrier-and-kwick-klose-fastener-flat-convexity-pkg-of-5">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A New Level of Flexibility, Comfort and Security</strong></p>
+<ul>
+<li>Advantages of a one-piece system</li>
+<li>30% smaller than UltraMax<span>  </span>
+</li>
+<li>Ease of a disposable system</li>
+<li>Odour-proof pouch material</li>
+<li>Quiet, built-in comfort cover facing the body</li>
+<li>AquaTackTM Hydrocolloid Barrier</li>
+<li>Flat</li>
+<li>Cut-to-fit 12-80mm</li>
+<li>Transparent or opaque with Kwick-ViewTM window</li>
+<li>With or without filter</li>
+<li>Belt tabs</li>
+<li>Kwick-Klose II Fastener</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/1248/9229/files/Marlen_MiniMax_One_Piece_Drainable_Pouch_chart2_480x480.jpg?v=1589489732" alt=""></p>
+<p>Box of 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MiniMax</s:tag>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299548865</id>
+      <title>With Filter / Opaque</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>53600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299548865</id>
+      <title>With Filter / Transparent</title>
+      <s:price currency="CAD">84.25</s:price>
+      <s:sku>52600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299548865</id>
+      <title>Without Filter / Opaque</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>53800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.marlencanada.ca/products/6299548865</id>
+      <title>Without Filter / Transparent</title>
+      <s:price currency="CAD">82.31</s:price>
+      <s:sku>52800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
